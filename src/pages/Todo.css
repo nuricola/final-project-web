@@ -1,0 +1,21 @@
+.todo-page header{
+    background-image: linear-gradient(rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)),url(../utils/img/shop.jpg);
+    height: 50vh;
+}
+
+.container-todo{
+    height: 40px;
+    border-radius: 10px;
+    display:flex;
+    justify-content: center;
+    flex:1;
+}
+.todo{
+    display:flex;
+    flex:1;
+    font-size: 24px;
+}
+.container-sm{
+    height: 100vh;
+}
